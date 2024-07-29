@@ -1,5 +1,5 @@
 class SelfieStick{
-	String brand;
+	int noOfPiceses;
 	int price;
 	public SelfieStick()
 	{

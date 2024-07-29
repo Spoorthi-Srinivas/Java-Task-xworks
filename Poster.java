@@ -1,5 +1,5 @@
 class Poster{
-	String posterName;
+	String type;
 	int cost;
 	public Poster()
 	{
